@@ -12,7 +12,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 
 1. Clone este repositório em sua máquina local:
 
-git clone https://github.com/tavarest123/teste_pesquisaagi.git
+git clone [https://github.com/tavarest123/teste_blogdoAgi]
 
 2. Navegue até o diretório do projeto:
 
